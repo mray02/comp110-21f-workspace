@@ -1,4 +1,4 @@
-"""Miller's Hype Messages"""
+"""Miller's Hype Messages."""
 
 __author__ = "730383911"
 

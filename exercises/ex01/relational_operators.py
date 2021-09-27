@@ -1,6 +1,6 @@
-"""Showing how the four operations work together in Python"""
+"""Showing how the four operations work together in Python."""
 
-__author__ = 730383911
+__author__ = "730383911"
 
 left_hand_side: int = int(input("Left-hand side: "))
 right_hand_side: int = int(input("Right-hand side: "))
